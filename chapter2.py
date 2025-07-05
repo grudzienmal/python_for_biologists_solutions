@@ -1,4 +1,6 @@
-### chapter 2 exercises
+###########################
+### chapter 2 exercises ###
+###########################
 
 # please note that although chapter 2 does not cover the loops
 # I solved "complementing DNA" exercise using a loop
